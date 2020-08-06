@@ -2,7 +2,7 @@
 
 I'm a developer beginner and i don't know a lot of things about code but i make some tiny projects. I'm learning :)
 
-## In which project i'm woking ? - My projects
+### In which project i'm woking ? - My projects
 
 - :star: I'm working on a project called [**Mohist**](https://github.com/Mohist-Community/Mohist) 
   - This project is a combination of Forge + Spigot/Paper API to make Minecraft plugins and mods working together.
