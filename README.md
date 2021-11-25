@@ -4,7 +4,7 @@ I'm a developer beginner and i don't know a lot of things about code but i make 
 
 ### In which project i'm woking ? - My projects
 
-- :star: I'm working on a project called [**Mohist**](https://github.com/Mohist-Community/Mohist) 
+- :star: I'm working on a project called [**Mohist**](https://github.com/MohistMC/Mohist) 
   - This project is a combination of Forge + Spigot/Paper API to make Minecraft plugins and mods working together.
 - :zap: I'm also working on [**ShaLibUpdate**](https://github.com/Shawiizz/ShaLibUpdate) which is a java library (it's an updater) but my code is very ugly. 
 - :coffee: See also my [Mojang auth](https://github.com/Shawiizz/ShaLibAuth) java library (without Microsoft auth).
